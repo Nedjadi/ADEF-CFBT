@@ -1,0 +1,23 @@
+.titre-panneau{
+	background-color: green;
+	margin: 0;
+}
+
+.panneau_titre{
+	color: white;
+	font-size:20px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.sous_panneau{
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+.panneau_cfbt{
+	padding: 15px;
+
+}

@@ -1,0 +1,40 @@
+/*====================== WEBSITE-MENU =====================*/
+.website-menu {
+	box-shadow: 0 1px 3px #504f54,
+				0 3px 5px #504f54; 
+}
+.website-menu-adef {
+	background-color: #e32219;
+}
+.website-menu-cfbt {
+	background-color: #00a4e8;
+	padding-left: 14%;
+}
+
+
+.website-menu-cfbt .button{
+
+	background-color: #00a4e8;
+	border: 1px solid green;
+}
+
+.website-menu-cfbt .icon-bar{
+	background-color: black;
+
+}
+
+.button {
+	background-color: red;
+	border: 1px solid #714343;
+}
+
+.icon-bar {
+	background-color: #714243;
+}
+
+.website-menu a {
+	text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
+	color: white; 
+}
+
+/*== END - WEBSITE-MENU =========================================*/

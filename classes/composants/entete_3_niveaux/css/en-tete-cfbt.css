@@ -1,0 +1,134 @@
+
+.composant_en_tete_3n_navo{
+	color: black!important;
+	background-color: #80A0D0;
+}
+/*bouton de la barre de navigation quand elle est reduite*/
+
+.composant_en_tete_3n_bord-button{
+	border: 1px solid green!important;
+}
+
+.composant_en_tete_3n_trait-button{
+	background-color: black;
+}
+
+/*fin de button*/
+
+.composant_en_tete_3n_conteneur{
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 90px;
+}
+
+
+.composant_en_tete_3n_imgpres{
+	width: 150px;
+	height: 100px;
+}
+
+.composant_en_tete_3n_presentation1{
+	padding: 20px 0px 0px 20px ;
+}
+
+.composant_en_tete_3n_presentation2{
+	margin: auto;
+}
+
+
+.composant_en_tete_3n_top-pres{
+	margin-left: 40px;
+	margin-right: 20px;
+	color: #00a4e8;
+}
+
+
+.composant_en_tete_3n_top-qual{
+	color: #c30080;
+	font-size: 18px;
+	margin-left: 30px;
+}
+
+.composant_en_tete_3n_imgpres{
+	width: 150px;
+	height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

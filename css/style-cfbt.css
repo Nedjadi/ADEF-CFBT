@@ -1,0 +1,86 @@
+body,html{
+
+	background-image: linear-gradient(to right,#504f54,#504f54,#504f54);
+	font-family: 'Century Gothic',Verdana,sans-serif!important;
+
+}
+
+
+.cont{
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 50px;
+}
+
+
+.cfbt{
+	padding: 15px;
+	text-align: center;
+	margin: auto;
+}
+
+.cfbti{
+	width: 100%;
+	flex-direction: row;
+	display: inline-flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+
+.titre-cfa{
+	color:#00a4e8;
+	font-size:20px;
+	text-align:center;
+}
+
+.titre{
+	color: white;
+	font-size:20px;
+	text-align: left;
+	font-weight: bold;
+}
+
+
+.presentation3{
+	text-align: center;
+}
+
+.violet{
+	color: #c30080;
+	font-size: 18px;
+
+}
+
+
+
+.lieux{
+	text-align: center;
+	background-color: #d8d9db;
+	border:solid #00a4e8 2px;	
+}
+
+.happend{
+	color:#00a4e8;
+	font-size:24px;
+	margin-left: 20px;
+}
+
+.hap{
+	font-size:16px;
+	margin-left: 20px;
+}
+
+.logo{
+	display:inline-block;
+}
+
+.sous-logo{
+	font-size:11px;margin-top:3px;
+}
+
+.float-left{
+
+	float: left;
+}
+

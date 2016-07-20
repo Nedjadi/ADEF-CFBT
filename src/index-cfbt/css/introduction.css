@@ -1,0 +1,52 @@
+.lien{
+	background-color: #ddd;
+	width: 130px;
+	height: 130px;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 30px;
+}
+
+.lien:hover{
+	background-color: orange;
+}
+
+.filiere{
+	background-color: #bbb;
+}
+
+.filiere:hover{
+	background-color: orange;
+}
+
+.diplome{
+	background-color: #999;
+}
+
+.diplome:hover{
+	background-color: orange;
+}
+
+.entreprise{
+	background-color: #666;
+	
+}
+
+.entreprise:hover{
+	background-color: orange;
+}
+
+.apprenti{
+	background-color: #00a4e8;
+	
+}
+
+.apprenti:hover{
+	background-color: orange;
+}
+
+
+.presentation3{
+	text-align: center;
+}

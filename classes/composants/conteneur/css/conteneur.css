@@ -1,0 +1,262 @@
+.conteneur {font-size:100%;line-height:1.4;text-align:left;}
+.conteneur p{text-align:justify;}
+
+
+/*css de l introduction.html*/
+
+
+.lien{
+	background-color: #ddd;
+	width: 130px;
+	height: 130px;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 30px;
+}
+
+.lien:hover{
+	background-color: orange;
+}
+
+.filiere{
+	background-color: #bbb;
+}
+
+.filiere:hover{
+	background-color: orange;
+}
+
+.diplome{
+	background-color: #999;
+}
+
+.diplome:hover{
+	background-color: orange;
+}
+
+.entreprise{
+	background-color: #666;
+	
+}
+
+.entreprise:hover{
+	background-color: orange;
+}
+
+.apprenti{
+	background-color: #00a4e8;
+	
+}
+
+.apprenti:hover{
+	background-color: orange;
+}
+
+
+.presentation3{
+	text-align: center;
+}
+
+
+
+
+
+/*css de l offre d emploi*/
+
+
+
+
+
+body,html{
+
+	background-image: linear-gradient(to right,#504f54,#504f54,#504f54);
+	font-family: 'Century Gothic',Verdana,sans-serif!important;
+
+}
+
+.cont{
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 50px;
+}
+
+.alignc{
+	text-align:center;
+}
+
+.contour {
+border: 1px solid blue;
+background: #f8f8f8;
+margin-right: 20px;
+padding: 15px 5px 2px 5px;
+border-radius: 4px;
+}
+
+a.filtrer-liste {
+
+padding: 10px 20px;
+background: #00a4e8;
+color: #fff;
+font-weight: bold;
+font-size: 15px;
+text-align: center;
+line-height: 50px;
+border-radius: 8px;
+}
+
+.font14{
+	font-size:14px;
+}
+
+.titreinfo {
+
+font-size: 15px;
+font-weight: 700;
+color: #10015B;
+}
+
+.tab_content {
+padding: 0px;
+display: block;
+margin-right: 20px;
+}
+
+.width {
+width:100%;
+}
+
+table {
+text-align: justify;
+}
+
+table {
+
+display: table;
+border-collapse: separate;
+border-spacing: 2px;
+border-color: gray;
+}
+
+table.tableau-gen {
+
+width: 100%;
+margin-bottom: 5px;
+border-collapse: collapse;
+border: 1px solid #00a4e8;
+}
+
+table.tableau-gen td {
+vertical-align: middle;
+padding: 3px;
+border: none;
+font-size: 14px;
+color: #000;
+}
+
+table.tableau-gen td.tableau-image {
+width: 75px;
+border-right: 1px solid #00a4e8;
+}
+
+table.tableau-gen td.tableau-offre {
+width: auto;
+border-bottom: 1px solid #00a4e8;
+}
+
+table.tableau-gen td.tableau-poste {
+width: auto;
+border-right: 1px solid #00a4e8;
+}
+
+table.tableau-gen td.tableau-lieu {
+width: 90px;
+text-align: center;
+border-right: 1px solid #00a4e8;
+}
+
+table.tableau-gen td.tableau-date {
+width: 90px;
+text-align: center;
+}
+
+.bordure {
+	margin-bottom: 5px;
+	border-collapse: collapse;
+	border: 1px solid #00a4e8;
+	margin-right: 20px;
+	padding-left: 20px;
+}
+
+.tab_container {
+border: none;
+overflow: hidden;
+clear: both;
+float: left;
+width: 100%;
+background: #fff;
+}
+
+tr {
+display: table-row;
+vertical-align: inherit;
+border-color: inherit;
+}
+
+
+
+.border {
+	border-color: #00a4e8;
+	border
+}
+
+.aste{
+	line-height: 18px;
+	text-align: left;
+	color:#87888a;
+	font-size:12px;
+}
+
+.filtrer{
+	font-size: 14px;
+	line-height: 18px;
+	margin:5px auto;
+}
+
+.lab{
+	margin-left:25px;
+}
+
+.selec {
+	font-size:14px;
+}
+
+.soustitrecfbt {
+font-size: 16px;
+font-weight: 700;
+color: #000;
+text-align: left;
+margin: 15px 0 7px;
+}
+
+.bleu-liste {
+	color:#00a4e8;
+}
+
+.liste-normal{
+	color:#000
+}
+
+.chevbar1 {
+	float:left;
+	
+	width:13px;
+	height:18px;
+}
+
+.chevbar2 {
+	float:left;
+	width:98px;
+	height:18px;
+	background-position: right top!important;
+}
